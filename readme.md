@@ -3,6 +3,7 @@ using the code to get a QR code and scaning it to turn your wechat to a simple r
 
 ## Main codes
 * wechat.py
+
 link your wechat with the robot
 
 ## Operating environment
